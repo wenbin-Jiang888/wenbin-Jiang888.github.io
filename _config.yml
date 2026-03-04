@@ -1,5 +1,5 @@
 title: Home Page
 description: This is my first page used to introduce myself
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
